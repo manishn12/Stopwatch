@@ -1,0 +1,19 @@
+html{
+	background-color: #abc7ff;
+}
+.timer{
+	display: flex;
+	padding: 20px;
+	text-align: center;
+	justify-content: center;
+
+}
+button{
+	font-size: 20px;
+	padding: 10px;
+    margin: 10px;
+}
+.timer{
+	font-size: 100px;
+
+}
